@@ -1,0 +1,16 @@
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.deps.json
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.dll
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.pdb
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.AssemblyInfo.cs
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.sourcelink.json
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.csproj.CopyComplete
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.dll
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\refint\Vb.Schema.dll
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.pdb
+C:\Users\Ali\Desktop\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\ref\Vb.Schema.dll
